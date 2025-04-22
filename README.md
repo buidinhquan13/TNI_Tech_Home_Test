@@ -1,8 +1,8 @@
 # TNI_Tech_Home_Test
-## Demo 
+## 1. Demo 
 https://github.com/user-attachments/assets/ee2356f7-4213-4f7d-a717-372f5cd18c7c
 
-## How to run
+## 2. How to run
 **Step 1: Clone the repository**
 ```bash
 git clone <repository-url>
